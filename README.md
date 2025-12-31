@@ -38,45 +38,5 @@ Follow these steps to run the project locally on your machine.
 git clone [https://github.com/your-username/smart-career-toolkit.git](https://github.com/your-username/smart-career-toolkit.git)
 cd smart-career-toolkit
 
-## 2. Create a Virtual Environment (Optional but Recommended)
-```bash
-
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# Mac/Linux
-source venv/bin/activate
-
-## 3. Run the Application
-```bash
-
-streamlit run app.py
-The app will open in your browser at http://localhost:8501.
-
-## 📂 Project Structure
-smart-career-toolkit/
-│
-├── app.py                # Main application file
-├── README.md             # Project documentation
-└── .gitignore            # Files to ignore (e.g., venv, __pycache__)
-
-Plaintext
-
-streamlit
-python-docx
-pymupdf
-🤝 Contributing
-Contributions are welcome!
-
-Fork the project.
-
-Create your feature branch (git checkout -b feature/AmazingFeature).
-
-Commit your changes (git commit -m 'Add some AmazingFeature').
-
-Push to the branch (git push origin feature/AmazingFeature).
-
-Open a Pull Request.
-
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
