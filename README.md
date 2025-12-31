@@ -37,6 +37,3 @@ Follow these steps to run the project locally on your machine.
 ```bash
 git clone [https://github.com/your-username/smart-career-toolkit.git](https://github.com/your-username/smart-career-toolkit.git)
 cd smart-career-toolkit
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
