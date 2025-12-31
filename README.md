@@ -1,4 +1,4 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/7a4b14f9-36c8-4f46-b49e-6de5161a5703" /># Smart Career Toolkit 🚀
+# Smart Career Toolkit 🚀
 
 A comprehensive career assistance web application built with **Streamlit**. This tool helps students and job seekers optimize their resumes for ATS (Applicant Tracking Systems), build professional resumes from scratch, and calculate their academic CGPA.
 
